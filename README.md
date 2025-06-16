@@ -21,8 +21,8 @@ The dataset includes various features extracted from URLs, such as:
 - Domain age, etc.
 
 **Target Variable**:  
-- `0`: Legitimate  
-- `1`: Phishing
+- `1`: Legitimate  
+- `-1`: Phishing
 
 ## ⚙️ Features
 
@@ -45,3 +45,8 @@ The dataset includes various features extracted from URLs, such as:
    ```bash
    git clone https://github.com/sovan-payra/phishing-url-detection.git
    cd phishing-url-detection
+   
+## 🧠 Future Work
+Integrate into a web app or Chrome extension
+Real-time phishing URL scanner
+Add more features using NLP or domain WHOIS data
