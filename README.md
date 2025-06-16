@@ -1,4 +1,3 @@
-# Phising-URL-Detection
 # 🔐 Phishing URL Detection
 
 This project aims to detect phishing websites using machine learning algorithms based on various URL features. It analyzes URLs to distinguish between legitimate and phishing sites, helping protect users from potential threats.
